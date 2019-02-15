@@ -34,7 +34,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Describe state.
 
-    State is the heart of React, determining how components render and behave.
+    State is the heart of React, determining how components render and behave!
 
 - [ ] Describe props.
 

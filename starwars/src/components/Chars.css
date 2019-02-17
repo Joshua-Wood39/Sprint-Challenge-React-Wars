@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+h2 {
+    margin: 0;
+}
+
+.cardDisplay {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cardImg {
+    border: 2px dashed black;
+}
+
+.charDeck {
+    border: 5px double rgb(44, 44, 44);
+}
+
+.cardImg {
+    width: 300px;
+}
+
+.charCard {
+    border: 3px solid goldenrod;
+    background: rgba(130, 190, 247, 0.5);
+}
+
+.cardHeader {
+    width: 300px;
+    background: rgba(0, 0, 119, 0.6);
+    font-family: 'Carrois Gothic', sans-serif;
+    border: 2px solid rgb(11, 0, 58);
+    border-radius: 5px;
+}
+
+.cardData {
+    font-family: 'Carrois Gothic', sans-serif;
+    line-height: 2rem;
+    background: rgb(49, 103, 252);
+    border: 2px solid black;
+    border-radius: 5px;
+}
